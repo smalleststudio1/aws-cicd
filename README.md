@@ -1,5 +1,5 @@
 # aws-cicd change
-Materials for AWS CICD workshop
+Materials for AWS CICD workshop.
 
 # Content
 * [Prerequisites](#prerequisites)
